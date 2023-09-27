@@ -1,0 +1,57 @@
+*{
+    padding: 0em;
+    margin: 0em;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 10vh;
+
+}
+.footer-end, .navbar{
+    background-color:rgb(31, 29, 54);
+    }
+    .fa-user-secret{
+        font-size: 5em;
+    }
+    .nav-link:hover{
+        background-color: brown;
+        border-radius: 12px;
+        font-size: 1.1em;
+    }
+    .fa-solid:hover{
+        color: brown !important; 
+    }
+    .btn-danger:hover{
+        padding: 0.5em !important;
+        transition: 0.6s all;
+    } 
+    .dropdown-menu{
+        background-color:rgb(31, 29, 54);
+    }
+    .dropdown-item{
+        padding: 0.4em;
+    }
+    .dropdown-item:hover{
+        background-color: brown;
+        text-transform: uppercase;
+        padding: 0.4em 0em 0.4em 1.2em;
+        transition: 0.6s all;
+    }
+    .text-decoration-none:hover{
+        color: brown !important;
+    }
+    .dokan:hover{
+        color: brown;
+    }
+    .fa-facebook:hover{
+        color: blue !important;
+    }
+    .fa-twitter:hover{
+        color: cornflowerblue !important;
+    }
+    .fa-whatsapp:hover{
+        color: green !important;
+    }
+    .fa-youtube:hover{
+        color: red !important;
+    }
